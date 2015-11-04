@@ -13,4 +13,4 @@ chrome的标签页插件，用自己编写的才过瘾嘛~
 然后安装，选择好根目录就行了
 
 ## 目前的页面效果
-<img alt="游戏开始" src="showpic/show.png" />
+<img alt="游戏开始" src="showpic/show.jpg" />

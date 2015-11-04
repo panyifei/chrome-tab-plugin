@@ -10,19 +10,33 @@ body{
     height: 200px;
     line-height: 200px;
     text-align: center;
-    margin: 50px 50px;
+    margin: 25px 50px;
     border: 1px solid #000;
+    border-radius: 10px;
     box-shadow: 10px 10px 5px #888888;
 }
-.item .green{
-
+.item.green{
+    background-color: #41A282;
+    color: #fff;
+    opacity: 0.4;
 }
-.item .blue{
-
+.item.blue{
+    background-color: #1181E0;
+    color: #fff;
+    opacity: 0.4;
 }
-.item .pink{
-
+.item.white{
+    background-color: #000;
+    color: #fff;
+    opacity: 0.4;
 }
-.item .yellow{
-
+.item.red{
+    background-color: #DE1E1E;
+    color: #fff;
+    opacity: 0.4;
+}
+.item.yellow{
+    background-color: #DAC215;
+    color: #fff;
+    opacity: 0.4;
 }
